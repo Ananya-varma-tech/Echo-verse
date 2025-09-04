@@ -1,0 +1,19 @@
+/* static/styles.css */
+body, .block-container {
+    background-color: purple !important;
+    color: white !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, label {
+    color: white !important;
+}
+
+.stButton>button {
+    background-color: #6a5acd !important; /* lavender-ish button */
+    color: white !important;
+}
+
+.stTextInput>div>input, .stTextArea>div>textarea {
+    background-color: #e6e6fa !important; /* lighter lavender for inputs */
+    color: black !important; /* keep input text readable */
+}
